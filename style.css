@@ -1,0 +1,9 @@
+.images img {
+    width: 100%;
+    height: 350px;
+}
+
+.display {
+    margin: 25px auto;
+    width: 95%;
+}
